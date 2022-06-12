@@ -4,7 +4,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/uat)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/faustini_x9/)
 
-![Faustini stats](https://github-readme-stats.vercel.app/api?username=Faustini&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Faustini&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Faustini stats](https://github-readme-stats.vercel.app/api?username=youngfaustini&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngfaustini&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 #
 
 # ***ʟᴀɴɢᴜᴀɢᴇꜱ ɪ ᴋɴᴏᴡ ᴀɴᴅ ʟᴇᴀʀɴ***
