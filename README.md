@@ -1,4 +1,4 @@
-# ***I am Fausto, I love to develop, and I speak Spanish!*** 🐍
+# ***I am Fausto, I love to develop, and I speak Spanish...*** 🐍
 
 # ***ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ:***
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/uat)
